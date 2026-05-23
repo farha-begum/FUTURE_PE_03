@@ -1,4 +1,3 @@
-
 # AI SEO Blog & Content Cluster Generator
 
 ## Overview
@@ -42,4 +41,4 @@ assets/
 Generate a complete SEO blog pack for local businesses.
 
 ## Author
-Your Name
+Farha Begum
